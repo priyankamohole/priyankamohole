@@ -1,5 +1,5 @@
 # Hey, It's me Priyanka! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
-### You can call me Priya...⭐
+### You can call me Priya...🦋✨
 
 - I'm based in India
 - 🔭 Stay updated with my journey on [My Personal Portfolio](https://in.linkedin.com/in/priyanka-mohole-626366250)
