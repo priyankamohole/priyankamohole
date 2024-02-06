@@ -1,4 +1,4 @@
-# Hey It's me Priyanka! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
+# Hey, It's me Priyanka! <img src="https://raw.githubusercontent.com/arkalsekar/arkalsekar/main/wave.gif" width="35px">
 ### You can call me Priya...
 
 - I'm 21 years old 
