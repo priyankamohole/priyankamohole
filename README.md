@@ -3,7 +3,7 @@
 
 - I'm based in India
 - 🔭 Stay updated with my journey on [My Personal Portfolio](https://in.linkedin.com/in/priyanka-mohole-626366250)
-- 👩‍💻I'm currently developing my skills on ```Web Dev```, ```WEB DESIGN```
+- 👩‍💻I'm currently developing my skills on ```Web Dev```, ```WEB DESIGN```,```Data Analytics```
 - Looking forward to connecting with fel low developers, learning new things, and building something amazing together! 🌈✨
 
  ### 🪄 My Skills:
