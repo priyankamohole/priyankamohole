@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Priyanka Mohole</h1>
 <h3 align="center">🚀 Passionate Python & Full-Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-</p>
+
 
 ---
 
