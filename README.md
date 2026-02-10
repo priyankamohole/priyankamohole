@@ -77,12 +77,5 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyankamohole&show_icons=true&theme=default" />
-markdown
-Copy code
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamohole&layout=compact&theme=default" />
-markdown
-Copy code
-<img src="https://streak-stats.demolab.com?user=priyankamohole" />
 
 ⭐ *Thanks for visiting my profile!*  
