@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" hight="25%" width="100%"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Priyanka Mohole</h1>
 <h3 align="center">🚀 Passionate Python & Full-Stack Developer from India</h3>
@@ -79,5 +76,13 @@
 </p>
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyankamohole&show_icons=true&theme=default" />
+markdown
+Copy code
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankamohole&layout=compact&theme=default" />
+markdown
+Copy code
+<img src="https://streak-stats.demolab.com?user=priyankamohole" />
 
 ⭐ *Thanks for visiting my profile!*  
